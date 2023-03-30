@@ -1,0 +1,4 @@
+api登入執行順序
+1.C:\Final_IcashEndurance\icash\Loginaccount\icashendurance
+2.C:\icashapi\prequestwritetxt.py  encdata 寫到txt file
+3.C:\icashapi\aesdecrenc.py
